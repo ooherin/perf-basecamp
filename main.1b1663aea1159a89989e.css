@@ -60,7 +60,6 @@
   font: inherit;
   vertical-align: baseline;
   box-sizing: border-box;
-  font-display: swap;
 }
 
 html {
@@ -70,6 +69,7 @@ html {
 body {
   line-height: 1;
   font-family: 'Josefin Sans', sans-serif;
+  font-display: swap;
 }
 
 button {
