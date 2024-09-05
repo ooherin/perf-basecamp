@@ -1,2 +1,1 @@
 "use strict";(self.webpackChunkfrontend_performance_basecamp=self.webpackChunkfrontend_performance_basecamp||[]).push([[526],{145:(e,r,s)=>{s.r(r),s.d(r,{default:()=>n});var c=s(848);const n=()=>(0,c.jsx)("footer",{children:(0,c.jsxs)("p",{children:["(c) memegle. All rights reserved. Powered by ",(0,c.jsx)("a",Object.assign({href:"https://giphy.com/"},{children:"Giphy"})),"."]})})}}]);
-//# sourceMappingURL=526.bundle.js.map
